@@ -15,3 +15,8 @@ WeSplit is a simple check-sharing app built with SwiftUI. It helps users calcula
 
 ### GuessTheFlag: A Flag Guessing Game
 Guess the Flag is a fun game that helps users learn about world flags by asking them to identify which flag belongs to which country. Players choose the correct flag from three options based on the displayed country name.
+
+### ViewsAndModifiers: Understanding Views and Modifiers in SwiftUI
+ViewsAndModifiers is a foundational SwiftUI project that focuses on understanding how views and modifiers work together to create user interfaces. This project aims to clarify the mechanics of SwiftUI, enabling developers to build custom view modifiers and containers while gaining insights into the framework’s internal workings. Key topics include the use of structs for views, the importance of modifier order, and the creation of custom modifiers, enhancing your ability to design efficient and reusable components in SwiftUI.
+
+
