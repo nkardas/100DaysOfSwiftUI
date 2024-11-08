@@ -7,3 +7,8 @@ This folder contains the complete Xcode projects I’ve developed as part of the
 - **Real-World Applications**: Each project is designed to apply Swift and SwiftUI concepts in practical scenarios, helping me understand how to build functional apps.
 - **Skill Development**: These projects challenge me to implement various features, from UI design to data handling, enhancing my overall programming skills.
 - **Portfolio Building**: The completed projects serve as tangible examples of my work, which I can showcase in my portfolio or share with potential employers.
+
+## Available Applications
+
+### WeSplit: Check-Sharing App
+WeSplit is a simple check-sharing app built with SwiftUI. It helps users calculate how to split a check among multiple people and allows them to add a tip.
