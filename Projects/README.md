@@ -12,3 +12,6 @@ This folder contains the complete Xcode projects I’ve developed as part of the
 
 ### WeSplit: Check-Sharing App
 WeSplit is a simple check-sharing app built with SwiftUI. It helps users calculate how to split a check among multiple people and allows them to add a tip.
+
+### GuessTheFlag: A Flag Guessing Game
+Guess the Flag is a fun game that helps users learn about world flags by asking them to identify which flag belongs to which country. Players choose the correct flag from three options based on the displayed country name.
