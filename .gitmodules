@@ -1,0 +1,3 @@
+[submodule "Projects/WeSplit"]
+	path = Projects/WeSplit
+	url = https://github.com/nkardas/WeSplit.git
