@@ -2,3 +2,6 @@
 	path = Projects/WeSplit
 	url = https://github.com/nkardas/WeSplit.git
 	branch = main
+[submodule "Projects/GuessTheFlag"]
+	path = Projects/GuessTheFlag
+	url = https://github.com/nkardas/GuessTheFlag.git
