@@ -8,3 +8,6 @@
 [submodule "Projects/ViewsAndModifiers"]
 	path = Projects/ViewsAndModifiers
 	url = https://github.com/nkardas/ViewsAndModifiers.git
+[submodule "Projects/RockPaperScissors"]
+	path = Projects/RockPaperScissors
+	url = https://github.com/nkardas/RockPaperScissors.git
