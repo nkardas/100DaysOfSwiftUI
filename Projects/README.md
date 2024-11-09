@@ -19,4 +19,5 @@ Guess the Flag is a fun game that helps users learn about world flags by asking 
 ### ViewsAndModifiers: Understanding Views and Modifiers in SwiftUI
 ViewsAndModifiers is a foundational SwiftUI project that focuses on understanding how views and modifiers work together to create user interfaces. This project aims to clarify the mechanics of SwiftUI, enabling developers to build custom view modifiers and containers while gaining insights into the framework’s internal workings. Key topics include the use of structs for views, the importance of modifier order, and the creation of custom modifiers, enhancing your ability to design efficient and reusable components in SwiftUI.
 
-
+### RockPaperScissors: Brain Training Game
+RockPaperScissors is a brain training game built with SwiftUI that challenges players to win or lose at rock, paper, scissors by selecting the correct move based on the app’s random choice. Players score points for correct answers over 10 rounds, making it an engaging way to practice decision-making skills and reinforce understanding of SwiftUI concepts.
