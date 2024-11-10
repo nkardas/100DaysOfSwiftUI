@@ -11,3 +11,6 @@
 [submodule "Projects/RockPaperScissors"]
 	path = Projects/RockPaperScissors
 	url = https://github.com/nkardas/RockPaperScissors.git
+[submodule "Projects/BetterRest"]
+	path = Projects/BetterRest
+	url = https://github.com/nkardas/BetterRest.git
