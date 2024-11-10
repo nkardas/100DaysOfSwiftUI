@@ -21,3 +21,6 @@ ViewsAndModifiers is a foundational SwiftUI project that focuses on understandin
 
 ### RockPaperScissors: Brain Training Game
 RockPaperScissors is a brain training game built with SwiftUI that challenges players to win or lose at rock, paper, scissors by selecting the correct move based on the app’s random choice. Players score points for correct answers over 10 rounds, making it an engaging way to practice decision-making skills and reinforce understanding of SwiftUI concepts.
+
+### BetterRest: Sleep Predicition App
+BetterRest is a SwiftUI app that uses machine learning to help users determine the optimal bedtime based on their desired wake-up time and sleep duration. By integrating components like `DatePicker` and `Stepper`, the app provides personalized sleep recommendations, showcasing the effective combination of SwiftUI and Core ML.
